@@ -1,0 +1,34 @@
+.header{
+    background-color: rgb(28, 156, 156);
+    display: flexbox;
+    justify-content: space-between;
+}
+
+.objects{
+    background-color: rgb(204, 210, 211);
+    display:flexbox;
+    justify-content:space-around;
+}
+
+.content{
+    background-color: rgb(104, 18, 92);
+    display: flexbox;
+    justify-content: left;
+}
+
+h2{
+    color: rgb(94, 160, 199);
+}
+
+p{
+    color: rgb(119, 199, 186);
+}
+
+ol{
+    color: rgb(119, 199, 186);
+}
+
+.part2{
+    background-color: rgb(146, 83, 11);
+}
+

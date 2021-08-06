@@ -1,0 +1,5 @@
+.intro{
+    background-image: "purple.png" ;
+    display: flexbox;
+    justify-content: space-evenly;
+}
